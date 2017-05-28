@@ -1,0 +1,7 @@
+# i want to try finding median.
+
+import statistics
+
+items = [1,2,3,4,5,6,8,11]
+
+print 'median of items = ', statistics.median(items)
